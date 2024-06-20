@@ -1,0 +1,31 @@
+{
+  "name": "alurageek-api",
+  "version": "1.0.0",
+  "description": "Products for Alura Geek fake store api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TzzJokerzzT/fake-aluraGeek"
+  },
+  "keywords": [
+    "alura",
+    "alurageek",
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "TzzJokerzzT, alexbuelvas.92@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TzzJokerzzT/fake-aluraGeek/issues"
+  },
+  "homepage": "https://github.com/TzzJokerzzT/fake-aluraGeek#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
